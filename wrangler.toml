@@ -1,0 +1,16 @@
+name = "ghe-bharari-backend"
+main = "src/index.js"
+compatibility_date = "2024-11-06"
+
+[[kv_namespaces]]
+binding = "MEMBERS_KV"
+id = "7e18acf7740b459487811710ba8c8ad2"
+preview_id = "your-preview-kv-namespace-id"
+
+[[kv_namespaces]]
+binding = "BUSINESSES_KV"
+id = "78d2e3bf0c5840b3a048fba8839ffd5d"
+preview_id = "your-preview-businesses-kv-namespace-id"
+
+[vars]
+CORS_ORIGIN = "https://ghebhararisevabhavisanstha.org"
