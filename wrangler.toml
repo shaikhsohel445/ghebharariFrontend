@@ -12,5 +12,10 @@ binding = "BUSINESSES_KV"
 id = "78d2e3bf0c5840b3a048fba8839ffd5d"
 preview_id = "your-preview-businesses-kv-namespace-id"
 
+[[kv_namespaces]]
+binding = "VIDEOS_KV"
+id = "d9172749e8df4eadb9a02d0b6e8ec657"
+preview_id = "your-preview-videos-kv-namespace-id"
+
 [vars]
 CORS_ORIGIN = "https://ghebhararisevabhavisanstha.org"
